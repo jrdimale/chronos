@@ -33,7 +33,7 @@ export default function Home() {
       </nav>
 
       {/* Main Content */}
-      <main className="max-w-7xl p-4 md:p-8 mt-8 bg-white shadow-md rounded-lg m-auto">
+      <main className="max-w-7xl p-4 md:p-8 mt-8 bg-white m-auto font-roboto"> {/* Removed rounded-lg, added font */}
         <h1 className="text-4xl md:text-5xl font-bold text-center text-gray-700 mb-8">
           The invincible diver
         </h1>
@@ -43,10 +43,9 @@ export default function Home() {
           <p className="text-gray-500">Jan 19, 2024</p>
         </div>
         <div className="prose prose-lg mx-auto text-gray-500 text-8l">
-          <p className="text-lg text-gray-500">
+          <p className="text-lg text-gray-500 justify-center">
             The Orient Blue Ray II diver watch is a renowned timepiece, celebrated for its exceptional blend of style, durability, and affordability. As a successor to the original Blue Ray, the Blue Ray II has upheld the legacy of its predecessor while introducing several enhancements that elevate its status in the world of diving watches.
-
-            At its core, the Blue Ray II is powered by Orient&apos;s in-house, automatic mechanical movement. This ensures reliable and accurate timekeeping, a critical feature for divers who depend on their watch&apos;s precision underwater. The movement also supports hand winding and hacking, allowing for more precise time setting – an upgrade from the original Blue Ray.
+            At its core, the Blue Ray II is powered by Orient&apos;s in-house, automatic mechanical movement. This ensures reliable and accurate timekeeping, a critical feature for divers who depend on their watch&apos;s precision underwater. The movement also supports hand winding and hacking, allowing for more precise time setting an upgrade from the original Blue Ray.
           </p>
           <figure className="flex justify-center my-8">
             <Image
@@ -57,7 +56,7 @@ export default function Home() {
               width={1250}
             />
           </figure>
-        <p className="text-lg text-gray-500">
+        <p className="text-lg text-gray-500 justify-center">
           The watch&apos;s design is both classic and contemporary, making it versatile enough for both casual wear and more formal occasions. It features a 41.5mm stainless steel case, which is comfortably sized for most wrists and provides a substantial, robust feel without being overly bulky. The case is complemented by a unidirectional rotating bezel, a staple in diver watches, which allows divers to track their elapsed time underwater. The bezel&apos;s 120 clicks give a satisfying tactile feedback and ensure precise setting.
 
           One of the most striking features of the Blue Ray II is its dial. The deep blue sunburst dial captures and reflects light, creating an ever-changing and captivating display. The watch&apos;s hands and markers are generously coated with lume, providing excellent legibility in low-light conditions, an essential attribute for a diver&apos;s watch.
