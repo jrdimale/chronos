@@ -4,20 +4,16 @@ export default function Home() {
   return (
     <main className="max-w-7xl p-4 md:p-8 mt-24 bg-white shadow-md rounded-lg dark:bg-gray-800 m-auto">
       <h1 className="text-4xl md:text-5xl font-bold text-center text-gray-700 dark:text-gray-300 mb-8">
-        The Minimalist Lifestyle
+        Pol Marica!
       </h1>
       <div className="flex justify-center items-center gap-4 mb-8">
-        <p className="text-gray-500 dark:text-gray-400">by John Doe</p>
+        <p className="text-gray-500 dark:text-gray-400">by Chronoguia</p>
         <p className="text-gray-500 dark:text-gray-400">•</p>
-        <p className="text-gray-500 dark:text-gray-400">Jan 15, 2024</p>
+        <p className="text-gray-500 dark:text-gray-400">Jan 19, 2024</p>
       </div>
       <div className="prose prose-lg dark:prose-dark mx-auto">
         <p>
-          Minimalism is more than just a design aesthetic. It&apos;s a lifestyle
-          choice that encourages the elimination of excess in all areas of life.
-          Whether it&apos;s decluttering your home, simplifying your finances,
-          or reducing the number of commitments in your schedule, minimalism is
-          all about focusing on what truly matters.
+          Orient is a minimal, responsive, and typography-focused theme for the
         </p>
         <figure className="lg:-mx-12 xl:-mx-20">
           <img
