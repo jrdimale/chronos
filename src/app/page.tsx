@@ -43,7 +43,7 @@ export default function Home() {
           <p className="text-gray-500">Jan 19, 2024</p>
         </div>
         <div className="prose prose-lg mx-auto text-gray-500 text-8l">
-          <p className="text-lg text-gray-500 justify-center">
+          <p className="text-2lg text-gray-500 justify-center">
             The Orient Blue Ray II diver watch is a renowned timepiece, celebrated for its exceptional blend of style, durability, and affordability. As a successor to the original Blue Ray, the Blue Ray II has upheld the legacy of its predecessor while introducing several enhancements that elevate its status in the world of diving watches.
             At its core, the Blue Ray II is powered by Orient&apos;s in-house, automatic mechanical movement. This ensures reliable and accurate timekeeping, a critical feature for divers who depend on their watch&apos;s precision underwater. The movement also supports hand winding and hacking, allowing for more precise time setting an upgrade from the original Blue Ray.
           </p>
