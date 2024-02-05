@@ -15,9 +15,9 @@ export const blogPosts = [
           <p className="text-justify">
             En este artículo, hablaré del Orient Blue Ray II, mi primer reloj de buceo que compré hace ya 7 años. Entraremos en detalle sobre mi experiencia, la marca Orient y explicaré por qué considero que este es el mejor diver que puedes adquirir por menos de 200 euros.
             <br></br>
-            La historia de Orient comenzó en 1901 con Shogoro Yoshida en una pequeña tienda de relojes de bolsillo importados en el barrio de Ueno, Tokio, llamada "Yoshida Watch Shop". Entre 1901 y 1934, la tienda pasó de comprar y vender relojes a fabricar sus propios relojes de pulsera y otros instrumentos de medición, inaugurando su primera fábrica en Hino, Tokio.
+            La historia de Orient comenzó en 1901 con Shogoro Yoshida en una pequeña tienda de relojes de bolsillo importados en el barrio de Ueno, Tokio, llamada &quotYoshida Watch Shop&quot. Entre 1901 y 1934, la tienda pasó de comprar y vender relojes a fabricar sus propios relojes de pulsera y otros instrumentos de medición, inaugurando su primera fábrica en Hino, Tokio.
             <br></br>
-            Lamentablemente, la derrota de Japón en la Segunda Guerra Mundial obligó a cerrar sus puertas, pero en 1950, la compañía reabrió en la misma fábrica de Hino y un año después fue renombrada como la conocemos hoy en día: "Orient Watch Company Limited".         
+            Lamentablemente, la derrota de Japón en la Segunda Guerra Mundial obligó a cerrar sus puertas, pero en 1950, la compañía reabrió en la misma fábrica de Hino y un año después fue renombrada como la conocemos hoy en día: &quot;Orient Watch Company Limited&quot;.         
           </p>
           <figure className="flex justify-center my-8">
             <Image
@@ -31,7 +31,7 @@ export const blogPosts = [
           <p className="text-justify">
             En 2001, el grupo Epson (una de las compañías que forma Seiko) adquirió el 52% de Orient, convirtiéndose en el accionista mayoritario. Este hecho es relevante porque nos ayuda a explicar por qué Seiko ha dado un paso atrás en los últimos años con los divers de menos de 400 euros; el grupo se estaba canibalizando a sí mismo con relojes como el SKX y el Monster. Por eso han dejado esa franja de mercado a Orient y se han ido a conquistar nuevas cotas, como la de relojes entre 400 y 600 euros.
             <br></br>
-            La marca cumplió 70 años de historia en 2020, lo que es realmente impresionante, especialmente considerando que sobrevivieron a la crisis del cuarzo en los años 70. Por tanto, Orient es una marca con una larga historia y un verdadero prestigio. Desde sus inicios, el objetivo de Orient ha sido "Ofrecer relojes de calidad a un precio asequible y con un estilo atemporal", y eso es exactamente lo que hacen. A lo largo de su historia, han creado modelos realmente emblemáticos, como el Ray y el Bambino.
+            La marca cumplió 70 años de historia en 2020, lo que es realmente impresionante, especialmente considerando que sobrevivieron a la crisis del cuarzo en los años 70. Por tanto, Orient es una marca con una larga historia y un verdadero prestigio. Desde sus inicios, el objetivo de Orient ha sido &quot;Ofrecer relojes de calidad a un precio asequible y con un estilo atemporal&quot, y eso es exactamente lo que hacen. A lo largo de su historia, han creado modelos realmente emblemáticos, como el Ray y el Bambino.
           </p>
         <figure className="flex justify-center my-8">
           <Image
