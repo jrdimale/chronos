@@ -27,8 +27,8 @@ export default function Home({ params }: { params: { postId: string } }) {
                 <Link href="/aboutUs" className="text-gray-500 hover:text-gray-700 px-3 py-2 rounded-md text-sm font-medium">
                   About Us
                 </Link>
-                <Link href="#" className="text-gray-500 hover:text-gray-700 px-3 py-2 rounded-md text-sm font-medium">
-                  Contact
+                <Link href="/contact" className="text-gray-500 hover:text-gray-700 px-3 py-2 rounded-md text-sm font-medium">
+                  Contacto
                 </Link>
               </div>
             </div>
@@ -42,15 +42,15 @@ export default function Home({ params }: { params: { postId: string } }) {
           {post?.title}
         </h1>
         <div className="flex justify-center items-center gap-4 mb-8">
-          <p className="text-gray-500">by Chronoguia</p>
+          <p className="text-gray-500"> {post?.editor}</p>
           <p className="text-gray-500">•</p>
-          <p className="text-gray-500">Jan 19, 2024</p>
+          <p className="text-gray-500"> {post?.date}</p>
         </div>
-        {post?.summary}
+        {post?.content}
     </main>
-    {/* Contact Info Section */}
+    {/* Contacto Info Section */}
       <div className="max-w-7xl mx-auto px-4 md:px-8 py-8 flex justify-center">
-        <p>From watch lovers, to watch lovers  | <a href="mailto:info@chronoguia.com">info@chronoguia.com</a></p>
+        <p>Tu guía de relojes  | <a href="mailto:chronoguia@gmail.com">chronoguia@gmail.com</a></p>
         {/* Add any other information you want here */}
       </div>
     </>
