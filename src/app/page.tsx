@@ -48,7 +48,7 @@ export default function Home() {
             <div className="group cursor-pointer">
               <div className="relative w-full h-64 md:h-96"> {/* Adjust the height as needed */}
                 <Image
-                  alt={post.title}
+                  alt={post.titleHomepage}
                   src={post.mainPicture}
                   layout="fill"
                   objectFit="cover" // This will cover the div area, maintaining aspect ratio
