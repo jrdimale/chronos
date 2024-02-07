@@ -15,7 +15,7 @@ export default function Home() {
             <div className="flex items-center">
               <div className="flex-shrink-0">
                 <Link href="/">
-                  <img className="h-14 w-14" src="/logo_final.png" alt="Your Logo" />
+                  <img className="h-14 w-14" src="/logo/logo_final.png" alt="Your Logo" />
                 </Link>
               </div>
             </div>
@@ -40,7 +40,7 @@ export default function Home() {
     {/* Main Content - Grid with posts title, summaries and pictures*/}
     <main className="max-w-7xl p-4 md:p-8 mt-8 bg-white m-auto font-roboto">
       <h1 className="text-4xl md:text-5xl font-bold text-center text-gray-700 mb-8">
-        Welcome to Chronoguia
+        Chronoguia
       </h1>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
         {blogPosts.map((post) => (
@@ -56,7 +56,7 @@ export default function Home() {
                 />
               </div>
               <div className="text-center">
-                <h2 className="mt-2 text-xl font-bold">{post.title}</h2>
+                <h2 className="mt-2 text-xl font-bold">{post.titleHomepage}</h2>
               </div>
               <div className="text-justify">
                 {post.summary}
@@ -69,10 +69,12 @@ export default function Home() {
 
  
     {/* Contacto Info Section */}
+    <nav className="bg-white shadow-md">
       <div className="max-w-7xl mx-auto px-4 md:px-8 py-8 flex justify-center">
-        <p>Tu gúia de relojes | <a href="mailto:chronoguia@gmail.com">chronoguia@gmail.com</a></p>
+        <p>Tu guía de relojes | <a href="mailto:info@chronoguia.com">info@chronoguia.com</a></p>
         {/* Add any other information you want here */}
       </div>
+      </nav>
     </>
   );
 }

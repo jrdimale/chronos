@@ -15,7 +15,7 @@ export default function Home({ params }: { params: { postId: string } }) {
             {/* Logo Placeholder */}
             <div className="flex items-center">
                 <Link href="/">
-                  <img className="h-14 w-14" src="/logo_final.png" alt="Your Logo" />
+                  <img className="h-14 w-14" src="/logo/logo_final.png" alt="Your Logo" />
                 </Link>
             </div>
             {/* Navigation Links */}
@@ -50,7 +50,7 @@ export default function Home({ params }: { params: { postId: string } }) {
     </main>
     {/* Contacto Info Section */}
       <div className="max-w-7xl mx-auto px-4 md:px-8 py-8 flex justify-center">
-        <p>Tu guía de relojes  | <a href="mailto:chronoguia@gmail.com">chronoguia@gmail.com</a></p>
+        <p>Tu guía de relojes  | <a href="mailto:info@chronoguia.com">info@chronoguia.com</a></p>
         {/* Add any other information you want here */}
       </div>
     </>
