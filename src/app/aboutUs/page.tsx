@@ -38,7 +38,7 @@ export default function Home() {
       {/* Main Content */}
       <main className="max-w-7xl p-4 md:p-8 mt-8 bg-white m-auto font-roboto"> {/* Removed rounded-lg, added font */}
         <div className="prose prose-lg mx-auto text-gray-500 text-8l">
-          <p className="text-2lg text-gray-500 justify-center">
+          <p className="text-2lg text-gray-500 text-center">
             En construcción
           </p>
       </div>

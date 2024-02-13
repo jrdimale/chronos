@@ -6,11 +6,11 @@ export const blogPosts = [
     { id: "1", 
       titleHomepage: 'Orient Blue Ray II',
       title: <><p>Orient Blue Ray II <br></br> El Mejor Diver por Menos de 200 €</p></>, 
-      summary: <><p>Un diver polivalente, de mecánica japonesa y con una robustez inmejorable.</p></>, 
+      summary: <><p>Un auténtico diver Japones a prueba de balas, con un precio para cualquier bolsillo</p></>, 
       category: 'Story',
       categoryTitle: <><p>EXPLICANDO RELOJES</p></>,
       editor: 'Lluis M.',
-      date: '5 Feb, 2024',
+      date: '13 Feb, 2024',
       mainPicture: '/orientBlue/edited/portada.jpg',
       content: <><div className="prose prose-lg mx-auto text-gray-500">
           <p className="text-center">
@@ -44,6 +44,7 @@ export const blogPosts = [
           <figure className="flex justify-center my-8">
               <Image
                 alt="Orient Blue Ray II"
+                className="aspect-video overflow-hidden rounded-lg object-cover"
                 height={340}
                 width={600}
                 src="/orientBlue/edited/sunlight.jpg"
@@ -80,7 +81,8 @@ export const blogPosts = [
             <br></br>
             <br></br>
 
-            La resistencia al agua es de 200 metros, lo que lo convierte en un auténtico reloj de buceo. Además, cuenta con una corona firmada de rosca, como no podría ser de otra forma en un diver, y un reverso de la caja con los icónicos delfines que suelen llevar los divers de Orient.             El bisel es de aluminio, resistente a los golpes y fácil de cambiar si fuera necesario. El cristal es mineral, un punto intermedio entre zafiro y plexiglás, que ha demostrado ser duradero a lo largo de los años.
+            La resistencia al agua es de 200 metros, lo que lo convierte en un auténtico reloj de buceo. Además, cuenta con una corona firmada de rosca, como no podría ser de otra forma en un diver, y un reverso de la caja con los icónicos delfines que suelen llevar los divers de Orient.
+            El bisel es de aluminio, resistente a los golpes y fácil de cambiar si fuera necesario. El cristal es mineral, un punto intermedio entre zafiro y plexiglás, que ha demostrado ser duradero a lo largo de los años.
 
           </p>
           <br></br>
@@ -97,19 +99,16 @@ export const blogPosts = [
         <br></br>
 
           <p className="text-justify">
-            Este reloj se puede comprar con una de dos opciones en cuanto a correas: una pulsera metálica de acero inoxidable o una correa de caucho decorada con los clásicos delfines de Orient. En la mayoría de los casos, yo siempre recomendaría que cuando alguien se compra un reloj nuevo donde se ofrece la posibilidad de escoger entre una correa de cualquier material vs una metálica, siempre les diría que compren el brazalete metálico. 
+            Este reloj te ofrece dos opciones de correas: puedes elegir entre una pulsera metálica de acero inoxidable o una correa de caucho adornada con los emblemáticos delfines de Orient. Personalmente, siempre te aconsejaría optar por el brazalete metálico cuando estés ante la decisión de escoger entre diferentes materiales para tu nuevo reloj.    
             <br></br>
             <br></br>
 
-            ¿Por qué? Pues muy simple, desde un punto de vista financiero es siempre mejor comprarlo. Si lo tienen, siempre pueden encontrar opciones baratas en correas de otros materiales que les van a encajar, pero si hacen al revés, aunque en un inicio se ahorren un dinero, si tienen que ir a la casa relojera a comprar la correa metálica sola, no les va a salir a cuenta. Además, en la mayoría de los relojes, el valor de reventa se verá afectado si no tienen el brazalete original.
+            ¿La razón? Es bastante simple desde el punto de vista financiero: el brazalete metálico siempre es la mejor elección. Si optas por él, siempre podrás encontrar correas de otros materiales a buen precio que combinarán perfectamente. Pero, si decides empezar con otra correa y luego quieres cambiar a la metálica, te costará más y, en muchos casos, afectará al valor de reventa del reloj si no es el brazalete original.
+            Sin embargo, después de decir todo esto, quiero señalar que en este caso particular, el brazalete metálico no merece la pena. Lo compré y al verlo me di cuenta de que la calidad no estaba a la altura del resto del reloj; parece de un tipo de acero diferente al de la caja y se raya con mucha facilidad, como podrás apreciar en la foto.
             <br></br>
             <br></br>
 
-            Ahora, después de todo este rollo, les diré que en este caso concreto no vale la pena comprar el brazalete. Yo me lo compré y nada más verlo, me di cuenta de que no vale la pena. Se siente de muy mala calidad en comparación con el resto del reloj, como si fuera de otro acero diferente al de la caja. Se ralla con muchísima facilidad, como pueden ver en la foto.  
-            <br></br>
-            <br></br>
-
-            El cierre no es nada seguro, una vez incluso me saltó sin darme cuenta y perdí el reloj durante un par de días. Lo que quiero decir es que con un reloj de este precio no se puede pedir mucho más y la correa de caucho que viene de serie es de suficiente buena calidad y mucho más cómoda. Además, con la opción de caucho en Amazon, se ahorrarán unos 30 euros, que pueden usar para comprar una buena nato o una correa de caucho de mejor calidad, como acabé haciendo yo igualmente.          
+            Además, el cierre no es nada seguro. Una vez incluso me saltó sin darme cuenta y perdí el reloj durante un par de días. Lo que quiero decir es que con un reloj de este precio no se puede pedir mucho más y la correa de caucho que viene de serie es de suficiente buena calidad y mucho más cómoda. Además, con la opción de caucho en Amazon, se ahorrarán unos 30 euros, que pueden usar para comprar una buena nato o una correa de caucho de mejor calidad, como acabé haciendo yo igualmente.          
           
           </p>
 
