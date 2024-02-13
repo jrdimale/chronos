@@ -38,9 +38,6 @@ export default function Home({ params }: { params: { postId: string } }) {
 
       {/* Main Content */}
       <main className="max-w-7xl p-4 md:p-8 mt-8 bg-white m-auto font-roboto"> {/* Removed rounded-lg, added font */}
-        <h1 className="text-3xl md:text-3xl font-bold font-serif text-center text-gray-700 mb-8">
-          {post?.categoryTitle}
-        </h1>
         <h1 className="text-4xl md:text-5xl font-bold text-center text-gray-700 mb-8">
           {post?.title}
         </h1>

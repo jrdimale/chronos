@@ -7,12 +7,10 @@ export const blogPosts = [
       titleHomepage: 'Orient Blue Ray II',
       title: <><p>Orient Blue Ray II <br></br> El Mejor Diver por Menos de 200 €</p></>, 
       summary: <><p>Un diver polivalente, de mecánica japonesa y con una robustez inmejorable.</p></>, 
-      category: 'Story',
-      categoryTitle: <><p>EXPLICANDO RELOJES</p></>,
       editor: 'Lluis M.',
       date: '5 Feb, 2024',
       mainPicture: '/orientBlue/edited/portada.jpg',
-      content: <><div className="prose prose-lg mx-auto text-gray-500">
+      content: <><p className="prose prose-lg mx-auto text-gray-500">
           <p className="text-center">
             En este artículo, hablaré del Orient Blue Ray II, mi primer reloj de buceo que compré hace ya 7 años. Entraremos en detalle sobre mi experiencia, la marca Orient y explicaré por qué considero que este es el mejor diver que puedes adquirir por menos de 200 euros.
           </p>
@@ -41,12 +39,14 @@ export const blogPosts = [
           </p>
           <br></br>
 
-          <figure className="flex justify-center my-8">
+          <figure className="flex justify-center my-8" style={{ width: '600px', height: '340px', position: 'relative', borderRadius: '0.5rem', overflow: 'hidden' }}>
               <Image
                 alt="Orient Blue Ray II"
-                height={340}
-                width={600}
                 src="/orientBlue/edited/sunlight.jpg"
+                layout="fill"
+                objectFit="cover"
+                objectPosition="center" // Centers the image within the container
+                quality={100}
               />
           </figure>
           <br></br>
@@ -82,6 +82,9 @@ export const blogPosts = [
 
             La resistencia al agua es de 200 metros, lo que lo convierte en un auténtico reloj de buceo. Además, cuenta con una corona firmada de rosca, como no podría ser de otra forma en un diver, y un reverso de la caja con los icónicos delfines que suelen llevar los divers de Orient.             El bisel es de aluminio, resistente a los golpes y fácil de cambiar si fuera necesario. El cristal es mineral, un punto intermedio entre zafiro y plexiglás, que ha demostrado ser duradero a lo largo de los años.
 
+            <br></br>
+            <br></br>
+
           </p>
           <br></br>
 
@@ -112,19 +115,19 @@ export const blogPosts = [
             El cierre no es nada seguro, una vez incluso me saltó sin darme cuenta y perdí el reloj durante un par de días. Lo que quiero decir es que con un reloj de este precio no se puede pedir mucho más y la correa de caucho que viene de serie es de suficiente buena calidad y mucho más cómoda. Además, con la opción de caucho en Amazon, se ahorrarán unos 30 euros, que pueden usar para comprar una buena nato o una correa de caucho de mejor calidad, como acabé haciendo yo igualmente.          
           
           </p>
+          <br></br>
 
         <figure className="flex justify-center my-8">
           <Image
             alt="Orient Blue Ray II"
             className="aspect-video overflow-hidden rounded-lg object-cover"
             height="340"
-            src="/orientBlue/edited/correa.jpg"
+            src="/orientBlue/IMG_7084.jpg"
             width="600"
           />
         </figure>
 
           <p className="text-justify">
-          <br></br>
 
           En mi experiencia personal, este reloj ha superado todas mis expectativas. Lo compré buscando un diver versátil para el verano y ha entregado prestaciones y fiabilidad muy superiores a su precio. De hecho, a pocas semanas de escribir este artículo, metí el reloj por accidente a la lavadora a unas 1000 rpm durante una hora y está como nuevo, lo cual es francamente increíble. A lo largo de los años, hemos compartido miles de aventuras por todo el mundo, y le he atribuido un valor sentimental que supera con creces su valor económico. Es un compañero fiel que puedo llevar tanto en ocasiones semi-formales como para actividades deportivas sin preocuparme por rascarlo o darle algún que otro golpe.
           <br></br>
@@ -148,7 +151,7 @@ export const blogPosts = [
           />
         </figure>
         <br></br>
-      </div></>}
+      </p></>}
     //{ id: "2", title: 'Second Post', summary: <><p>This is the second post.</p></>, mainPicture: '/orientBlue/IMG_6515.jpg' },
     // Add more blog posts here
   ];
