@@ -12,7 +12,7 @@ export const blogPosts = [
       editor: 'Lluis M.',
       date: '13 Feb, 2024',
       mainPicture: '/orientBlue/edited/portada.jpg',
-      content: <><div className="prose prose-lg mx-auto text-gray-500">
+      content: <><div className="prose prose-lg mx-auto text-gray-500 text-justify">
           <div className="text-center text-bold text-black">
             En este artículo, hablaré del Orient Blue Ray II, mi primer reloj de buceo que compré hace ya 7 años. Entraremos en detalle sobre mi experiencia, la marca Orient y explicaré por qué considero que este es el mejor diver que puedes adquirir por menos de 200 euros.
           </div>
