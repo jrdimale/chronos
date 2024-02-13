@@ -42,7 +42,7 @@ export default function Home() {
       <h1 className="text-4xl md:text-5xl font-bold text-center text-gray-700 mb-8">
         Chronoguia
         <p className="text-2xl md:text-3xl text-center text-gray-700 mb-8">
-          Todo sobre relojes
+        Tu guía de relojes
         </p>
       </h1>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -59,12 +59,9 @@ export default function Home() {
                 />
               </div>
               <div className="text-center">
-                <h2 className="mt-2 text-2xl font-serif">{post.categoryTitle}</h2>
+                <h2 className="mt-2 text-2xl font-bold">{post.titleHomepage}</h2>
               </div>
               <div className="text-center">
-                <h2 className="mt-2 text-xl font-bold">{post.titleHomepage}</h2>
-              </div>
-              <div className="text-justify">
                 {post.summary}
               </div>
             </div>

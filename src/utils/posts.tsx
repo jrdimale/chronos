@@ -6,16 +6,16 @@ export const blogPosts = [
     { id: "1", 
       titleHomepage: 'Orient Blue Ray II',
       title: <><p>Orient Blue Ray II <br></br> El Mejor Diver por Menos de 200 €</p></>, 
-      summary: <><p>Un auténtico diver Japones a prueba de balas, con un precio para cualquier bolsillo</p></>, 
+      summary: <><p>RESEÑA | Un auténtico diver Japonés a prueba de balas, <br></br>con un precio para cualquier bolsillo</p></>, 
       category: 'Story',
-      categoryTitle: <><p>EXPLICANDO RELOJES</p></>,
+      categoryTitle: <><p>RESEÑA</p></>,
       editor: 'Lluis M.',
       date: '13 Feb, 2024',
       mainPicture: '/orientBlue/edited/portada.jpg',
       content: <><div className="prose prose-lg mx-auto text-gray-500">
-          <p className="text-center">
+          <div className="text-center text-bold text-black">
             En este artículo, hablaré del Orient Blue Ray II, mi primer reloj de buceo que compré hace ya 7 años. Entraremos en detalle sobre mi experiencia, la marca Orient y explicaré por qué considero que este es el mejor diver que puedes adquirir por menos de 200 euros.
-          </p>
+          </div>
           <br></br>
           <figure className="flex justify-center my-8">
             <Image
