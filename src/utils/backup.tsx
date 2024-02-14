@@ -1,5 +1,5 @@
 // Example blog posts data
-import Image from 'next/image';
+import Image from "next/legacy/image";
 
 
 export const blogPosts = [
@@ -24,7 +24,7 @@ export const blogPosts = [
               width={600}
             />
           </figure>
-          <p className="text-justify">
+          <p className="text-balance">
             <br></br>
 
             La historia de Orient comenzó en 1901 con Shogoro Yoshida en una pequeña tienda de relojes de bolsillo importados en el barrio de Ueno, Tokio, llamada &quot;Yoshida Watch Shop&quot;. Entre 1901 y 1934, la tienda pasó de comprar y vender relojes a fabricar sus propios relojes de pulsera y otros instrumentos de medición, inaugurando su primera fábrica en Hino, Tokio.
@@ -51,7 +51,7 @@ export const blogPosts = [
           </figure>
           <br></br>
 
-          <p className="text-justify">
+          <p className="text-balance">
             La marca cumplió 70 años de historia en 2020, lo que es realmente impresionante, especialmente considerando que sobrevivieron a la crisis del cuarzo en los años 70. Por tanto, Orient es una marca con una larga historia y un verdadero prestigio. Desde sus inicios, el objetivo de Orient ha sido &quot;Ofrecer relojes de calidad a un precio asequible y con un estilo atemporal&quot;, y eso es exactamente lo que hacen. A lo largo de su historia, han creado modelos realmente emblemáticos, como el Ray y el Bambino.
             <br></br>
             <br></br>
@@ -75,7 +75,7 @@ export const blogPosts = [
 
         <br></br>
 
-          <p className="text-justify">
+          <p className="text-balance">
             El Orient Blue Ray II tiene un diámetro de 41,5 mm, 48,5 mm de punta a punta y 13 mm de grosor, medidas bastante contenidas para un diver. Lleva una maquinaria original de Orient llamada F6922, con una precisión registrada de fábrica de aproximadamente +-15 segundos al día y una reserva de marcha de unas 40 horas con complicación de día y fecha. 
             <br></br>
             <br></br>
@@ -99,7 +99,7 @@ export const blogPosts = [
         </figure>
         <br></br>
 
-          <p className="text-justify">
+          <p className="text-balance">
             Este reloj se puede comprar con una de dos opciones en cuanto a correas: una pulsera metálica de acero inoxidable o una correa de caucho decorada con los clásicos delfines de Orient. En la mayoría de los casos, yo siempre recomendaría que cuando alguien se compra un reloj nuevo donde se ofrece la posibilidad de escoger entre una correa de cualquier material vs una metálica, siempre les diría que compren el brazalete metálico. 
             <br></br>
             <br></br>
@@ -127,7 +127,7 @@ export const blogPosts = [
           />
         </figure>
 
-          <p className="text-justify">
+          <p className="text-balance">
 
           En mi experiencia personal, este reloj ha superado todas mis expectativas. Lo compré buscando un diver versátil para el verano y ha entregado prestaciones y fiabilidad muy superiores a su precio. De hecho, a pocas semanas de escribir este artículo, metí el reloj por accidente a la lavadora a unas 1000 rpm durante una hora y está como nuevo, lo cual es francamente increíble. A lo largo de los años, hemos compartido miles de aventuras por todo el mundo, y le he atribuido un valor sentimental que supera con creces su valor económico. Es un compañero fiel que puedo llevar tanto en ocasiones semi-formales como para actividades deportivas sin preocuparme por rascarlo o darle algún que otro golpe.
           <br></br>

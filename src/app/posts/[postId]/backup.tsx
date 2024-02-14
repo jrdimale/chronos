@@ -1,4 +1,4 @@
-import Image from 'next/image';
+import Image from "next/legacy/image";
 import Head from 'next/head'; // Include this for custom fonts
 import Link from 'next/link';
 import { blogPosts } from '@/utils/posts';
