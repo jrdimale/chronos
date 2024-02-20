@@ -147,7 +147,154 @@ export const blogPosts = [
           />
         </figure>
         <br></br>
-      </div></>}
-    //{ id: "2", title: 'Second Post', summary: <><p>This is the second post.</p></>, mainPicture: '/orientBlue/IMG_6515.jpg' },
-    // Add more blog posts here
+      </div></>},
+  { id: "2", 
+    titleHomepage: 'Seagull 1963',
+    title: <><p>Seagull 1963<br></br> Cronógrafo Militar Chino con ADN Suizo</p></>, 
+    summary: <><p>RESEÑA | Cronógrafo Militar Chino con ADN Suizo</p></>, 
+    category: 'Story',
+    categoryTitle: <><p>RESEÑA</p></>,
+    editor: 'Lluis M.',
+    date: '20 Feb, 2024',
+    mainPicture: '/seagull/portada.jpg',
+    content: <><div className="prose prose-lg mx-auto ">
+        <div className="font-bold text-gray-500 text-center">
+          Normalmente, cuando alguien dice que un reloj es CHINO, todos arrugamos automáticamente la nariz como si de la peste se tratase, e inevitablemente vienen a la mente las terribles copias que se han hecho durante décadas y que han dañado inmensamente al mercado. Es por eso que os quiero dar el chivatazo de que hay un reloj chino que está muy orgulloso de serlo y que ha cerrado la boca de miles de coleccionistas a lo largo de los años, convirtiéndose en un reloj de culto.        
+          </div>
+        <br></br>
+        <figure className="flex justify-center my-8">
+          <Image
+            alt="Seagull 1963"
+            className="aspect-video overflow-hidden rounded-lg object-cover"
+            height={800}
+            src='/seagull/portada2.jpg'
+            width={600}
+          />
+        </figure>
+        <div className="text-gray-500 text-balance" style={{textAlign: "justify"}}>
+          <br></br>
+
+          En 1955, poco después de que el Partido Comunista Chino ganara la guerra civil estableciendo su poder, se lanzó un proyecto secreto llamado D304. Este proyecto consistía en crear un cronógrafo de cuerda manual para el ejército (Imagen de <a href="https://www.wikipedia.com/" target="_blank" rel="noopener noreferrer">Wikipedia</a>) que fuera suficientemente preciso, fiable y económico para uso militar. El proyecto se lanzó en secreto debido a que la patente que compraron para manufacturar la maquinaria era de origen suizo, el popular calibre 175 de Venus, y el Gobierno Comunista no quería manifestar que necesitaba tecnología occidental.        
+
+        </div>
+        <br></br>
+
+        <figure className="flex justify-center my-8">
+            <Image
+              alt="Aviadores China"
+              className="aspect-video overflow-hidden rounded-lg object-cover"
+              height={400}
+              width={600}
+              src='/seagull/aviones.jpg'
+            />
+        </figure>
+        <br></br>
+
+        <p className="text-gray-500 text-balance" style={{textAlign: "justify"}}>
+          El trabajo de los relojeros encargados del proyecto era montar una fábrica para producir en masa este mecanismo suizo de manufactura china, la famosa &quot;Tianjin Watch Factory&quot;. Además, los chinos se tomaron la libertad de modificar el calibre añadiendo más rubíes, pasó de 17 a los actuales 21, e incrementando la frecuencia a 21,600 Vph. En 1963 se creo el prototipo final del reloj, pero no se entregó a los pilotos y oficiales del ejército hasta pasar las estrictas pruebas de calificación militar en 1965.  
+      
+        </p>
+        <br></br>
+
+        <figure className="flex flex-col justify-center items-center my-8">
+        <Image
+          alt="Seagull Watch Company"
+          className="overflow-hidden rounded-lg object-cover"
+          width={600}
+          height={340}
+          src="/seagull/logo.png"
+        />
+        </figure>
+
+      <br></br>
+
+       <p className="text-gray-500 text-balance" style={{textAlign: "justify"}}>
+
+
+          El reloj tuvo gran éxito en el país y en 1997 el gobierno permitió que se creara el grupo Seagull (Imagen de <a href="https://www.seagullwatchcompany.com/" target="_blank" rel="noopener noreferrer">Seagull Watch Company</a>) para exportar sus relojes al extranjero. Debido a que se pasó de una empresa del gobierno a una corporación semi-privada, el grupo actual está formado por unos 20 fabricantes distintos que en teoría hacen el mismo producto. A causa de esto y de la opacidad de un país como China, hoy en día es imposible saber de dónde viene exactamente tu reloj. Entre los múltiples fabricantes, en ocasiones, se observan ligeras diferencias en los mecanismos y en la parte posterior de la caja junto a una ligera variación de precios.
+        </p>
+        <br></br>
+
+      <figure className="flex justify-center my-8">
+        <Image
+          alt="Orient Blue Ray II"
+          className="aspect-video overflow-hidden rounded-lg object-cover"
+          height="800"
+          src="/seagull/formal.jpg"
+          width="600"
+        />
+      </figure>
+      <br></br>
+
+         <p className="text-gray-500 text-balance" style={{textAlign: "justify"}}>
+          En el panorama de los relojes actuales, los cronógrafos manuales con estas características no son nada fáciles de encontrar, y si los encuentras tienen precios bastante por encima de los 2000 euros. El Seagull 1963 no solo ofrece un look y una mecánica vintage en estos tiempos modernos, sino que además lo hace por precios que empiezan a partir de los 200 euros.         
+          <br></br>
+          <br></br>
+
+
+          En los últimos años se han lanzado varios modelos con diferentes colores, tamaños y materiales. Básicamente existen dos tamaños para este reloj, 40 mm y 38 mm, entre los cuales hay la opción de cristal de zafiro o plexiglás con diferentes colores de dial y alguna edición limitada. El Seagull 1963 más fiel al modelo original sería un diámetro de caja de 38 mm y unos 13,5 mm de grosor con un cristal de plexiglás y un dial color champagne.
+          El reverso del reloj tiene un fondo de caja en cristal que muestra el impresionante calibre decorado con tornillos azules que simulan el endurecimiento térmico que llevan algunos relojes de lujo. Los acabados y la decoración son muy decentes sin dejar boquiabierto a nadie, como cabe esperar de un reloj de 200 euros.
+          <br></br>        
+        </p>
+        <br></br>        
+
+      <figure className="flex justify-center my-8">
+        <Image
+          alt="Orient Blue Ray II"
+          className="aspect-video overflow-hidden rounded-lg object-cover"
+          height="800"
+          src="/seagull/darrere.jpg"
+          width="600"
+        />
+      </figure>
+
+        <p className="text-gray-500 text-balance" style={{textAlign: "justify"}}>
+        <br></br>
+
+        La resistencia al agua anunciada son unas 3 atmósferas o 30 metros, pero ¡ni se te ocurra acercarte al agua con este reloj! Yo, por norma general, prácticamente ni me lavo las manos con un reloj a no ser que tenga una resistencia al agua de por lo menos 100 m. Para nadar en el mar ya tiene que tener una resistencia al agua de 200 m o más, que es el punto a partir del cual empiezo a considerar que un reloj es sumergible. ¡No cometáis los errores que he cometido yo en el pasado y ahorraros la desgracia de que os entre agua en la maquinaria y tengáis que tirar el reloj a la basura!       
+         <br></br>
+        <br></br>
+
+        Para la gente más técnica, el calibre de Seagull ST-19 tiene además dos rasgos muy interesantes a destacar, que son la rueda de pilares y el embrague vertical en lugar de uno lateral. Esto finalmente se traduce en una acción del cronógrafo más suave, lo cual incluso dentro de la saga de cronógrafos suizos es algo que pocos tienen el lujo de presumir. La gente normalmente no lo sabe, pero la complicación de un cronógrafo manual es una de las complicaciones más difíciles de diseñar y ensamblar, con un número de piezas móviles y estáticas de casi el doble que un calibre automático normal.       
+      </p>
+      <br></br>
+
+      <figure className="flex justify-center my-8">
+        <Image
+          alt="Rueda de pilares"
+          className="aspect-video overflow-hidden rounded-lg object-cover"
+          height="500"
+          src="/seagull/rueda.jpg"
+          width="600"
+        />
+      </figure>
+      <br></br>
+
+      <p className="text-gray-500 text-balance" style={{textAlign: "justify"}}>
+        <br></br>
+
+        Lo primero que me impactó cuando recibí mi Seagull 1963 hará poco más de un año, fue que es mucho más bonito en persona que en fotos o vídeos. Yo me decanté por la versión de 38 mm con cristal de zafiro porque quería tener un reloj lo más cercano al original posible pero con las ventajas del zafiro para llevar a diario. La correa nato en verde militar que viene con el reloj es bonita y le da un look increíble, pero es de una calidad pobre y se desgasta más rápido de lo que debería. La mejor opción será eventualmente comprarle una correa de cuero que le queda increíble o otra nato verde de mejor calidad.
+        <br></br>
+        <br></br>
+
+
+        El hecho de que sea manual y no automático significa que le tengo que dar cuerda todos los días antes de ponérmelo,  pero esto es también gran parte de la gracia de tener una pieza así en tu colección. Le he dado par de golpes accidentales y el reloj ha respondido bien, sigue en perfectas condiciones y funciona con normalidad, lo cual me da a entender que es un reloj robusto y fiable.
+        <br></br>
+        <br></br>
+
+        En conclusión diré que si realmente estas buscando un autentico cronógrafo per menos de 1000 euros la respuesta es simple, cómprate el Seagull 1963! No es que sea la mejor opción, sino que es la única opción. Hay que dar gracias que vivimos en una época donde cualquier bolsillo puede permitirse llevar piezas con semejantes complicaciones e historia. Por lo tanto, si ere capaz de superar el estigma de que algo es Made in China podrás disfrutar de esta belleza como el resto de nosotros. 
+
+      </p>
+      <br></br>
+
+      <figure className="flex justify-center my-8">
+        <Image
+          alt="Seagull 1963"
+          className="aspect-video overflow-hidden rounded-lg object-cover"
+          height="700"
+          src="/seagull/zoom.jpg"
+          width="600"
+        />
+      </figure>
+    </div></>}
   ];
