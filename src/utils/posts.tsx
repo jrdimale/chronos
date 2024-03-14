@@ -28,7 +28,7 @@ export const blogPosts = [
       <div className="text-gray-500 text-balance" style={{textAlign: "justify"}}>
         <br></br>
 
-        Seiko ref 0674 (The spy who loved me): Este Seiko digital aparece en la primera escena de la película cuando de repente le llega un telegrama que sale directamente del reloj informando al agente que tiene que presentarse inmediatamente en HQ. Obviamente no tiene esta función en realidad, pero es divertido pensar que en los años 70 esto era considerado futurista.
+        1. Seiko ref 0674 (The spy who loved me): Este Seiko digital aparece en la primera escena de la película cuando de repente le llega un telegrama que sale directamente del reloj informando al agente que tiene que presentarse inmediatamente en HQ. Obviamente no tiene esta función en realidad, pero es divertido pensar que en los años 70 esto era considerado futurista.
       </div>
       <br></br>
 
@@ -44,7 +44,7 @@ export const blogPosts = [
       <br></br>
 
       <p className="text-gray-500 text-balance" style={{textAlign: "justify"}}>
-        Seiko m354 (Moonraker): Cuando el villano está intentando acabar con James de la forma mas rocambolesca posible, incinerándolo con un cohete espacial, este Seiko le salva la vida. El reloj esconde un rollo de explosivo plástico en su interior que le permite escapar a tiempo volando una puerta por los aires.    
+        2. Seiko m354 (Moonraker): Cuando el villano está intentando acabar con James de la forma mas rocambolesca posible, incinerándolo con un cohete espacial, este Seiko le salva la vida. El reloj esconde un rollo de explosivo plástico en su interior que le permite escapar a tiempo volando una puerta por los aires.    
       </p>
       <br></br>
 
@@ -62,7 +62,7 @@ export const blogPosts = [
 
      <p className="text-gray-500 text-balance" style={{textAlign: "justify"}}>
 
-        Seiko Sports 100 ref 757 (Octopussy): El mítico científico Q entrega el reloj a james como localizador para seguir la pista a un huevo de Faberge.
+        3. Seiko Sports 100 ref 757 (Octopussy): El mítico científico Q entrega el reloj a james como localizador para seguir la pista a un huevo de Faberge.
       </p>
       <br></br>
 
@@ -80,7 +80,7 @@ export const blogPosts = [
        <p className="text-gray-500 text-balance" style={{textAlign: "justify"}}>
        
 
-       Seiko spr007 (A view to a Kill): Roger Moore aparece seduciendo a una compañera llevando este bonito cronógrafo de cuarzo.
+       4. Seiko spr007 (A view to a Kill): Roger Moore aparece seduciendo a una compañera llevando este bonito cronógrafo de cuarzo.
       <br></br>        
       </p>
       <br></br>        
@@ -99,7 +99,7 @@ export const blogPosts = [
       <br></br>
 
      
-      Seiko TV (Octopussy) En el laboratorio del científico Q, Bond usa inapropiadamente una cámara conectada al curioso reloj/televisión para enfocar el escote de una compañera de trabajo.
+      5. Seiko TV (Octopussy) En el laboratorio del científico Q, Bond usa inapropiadamente una cámara conectada al curioso reloj/televisión para enfocar el escote de una compañera de trabajo.
       </p>
     <br></br>
 
@@ -118,7 +118,7 @@ export const blogPosts = [
       <br></br>
 
  
-      Seiko h558 (A view to a Kill): El reloj no se aprecia bien en la muñeca de Moore durante la película, pero sabemos que lo lleva porque así lo aseguró producción y la propia Seiko.
+      6. Seiko h558 (A view to a Kill): El reloj no se aprecia bien en la muñeca de Moore durante la película, pero sabemos que lo lleva porque así lo aseguró producción y la propia Seiko.
     </p>
     <br></br>
 
@@ -135,7 +135,7 @@ export const blogPosts = [
       <br></br>
 
  
-      Seiko 7549-7009 (For Your Eyes Only): Aparece en la muñeca de bond durante una escena en el fondo del mar cuando el y su chica están investigando y se ven involucrados en una pelea submarina.
+      7. Seiko 7549-7009 (For Your Eyes Only): Aparece en la muñeca de bond durante una escena en el fondo del mar cuando el y su chica están investigando y se ven involucrados en una pelea submarina.
     </p>
     <br></br>
 
@@ -152,7 +152,7 @@ export const blogPosts = [
       <br></br>
 
  
-      Tag heuer 980.031 (The Living Daylights): Se dice que Timothy Dalton llevaba una versión en acero de este reloj en la mayor parte de la peli, pero en la escena que salta de Gibraltar se ve una versión de este reloj en PVC negro, el apodado Night Diver.
+      8. Tag heuer 980.031 (The Living Daylights): Se dice que Timothy Dalton llevaba una versión en acero de este reloj en la mayor parte de la peli, pero en la escena que salta de Gibraltar se ve una versión de este reloj en PVC negro, el apodado Night Diver.
     </p>
     <br></br>
 
@@ -169,7 +169,7 @@ export const blogPosts = [
       <br></br>
 
  
-      Tissot PR-516 (Live and Let Die): Tissot no pretendía publicitar este reloj, de hecho se dice que era del propio Roger Moore. Por eso intentaron que no apareciera directamente en muchos planos. 
+      9. Tissot PR-516 (Live and Let Die): Tissot no pretendía publicitar este reloj, de hecho se dice que era del propio Roger Moore. Por eso intentaron que no apareciera directamente en muchos planos. 
          </p>
     <br></br>
 
@@ -186,7 +186,7 @@ export const blogPosts = [
       <br></br>
 
  
-      Hamilton Pulsar P2 2900 (Live and Let Die): Fue el primer reloj digital y cambio la historia de la relojería para siempre. En 1970 costaba alrededor de unos 13 mil euros de hoy en día. En 2020 Hamilton lo volvió a fabricar a un precio de unos 760 euros.    
+      10. Hamilton Pulsar P2 2900 (Live and Let Die): Fue el primer reloj digital y cambio la historia de la relojería para siempre. En 1970 costaba alrededor de unos 13 mil euros de hoy en día. En 2020 Hamilton lo volvió a fabricar a un precio de unos 760 euros.    
       </p>
       <br></br>
 
