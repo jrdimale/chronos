@@ -3,6 +3,155 @@ import Image from "next/legacy/image";
 
 
 export const blogPosts = [
+  { id: "4", 
+    titleHomepage: 'Rolex Explorer',
+    title: <><p>El mejor reloj de la historia es un Rolex, y no es el que piensas<br></br>Rolex Explorer </p></>, 
+    summary: <><p>RESEÑA | Un reloj polivalente, elegante, y ligero</p></>, 
+    category: 'Story',
+    categoryTitle: <><p>RESEÑA</p></>,
+    editor: 'Lluis M.',
+    date: '1 Mayo, 2024',
+    mainPicture: '/rolex/portada.jpg',
+    content: <><div className="prose prose-lg mx-auto ">
+        <div className="font-bold text-gray-500 text-center">
+        En el hipotético caso de que me condenaran a la inhumana tortura de solo escoger un reloj para el resto de mi vida, sin dudarlo sería un Rolex Explorer I 14270 fabricado entre 1993 y 2001. En nuestra humilde opinión, sus características lo convierten probablemente en el reloj más elegante, cómodo y versátil que se ha fabricado nunca.          </div>
+        <br></br>
+        <figure className="flex justify-center my-8">
+          <Image
+            alt="Rolex Explorer"
+            className="aspect-video overflow-hidden rounded-lg object-cover"
+            height={800}
+            src='/rolex/FORMAL2.jpg'
+            width={600}
+          />
+        </figure>
+        <div className="text-gray-500 text-balance" style={{textAlign: "justify"}}>
+          <br></br>
+
+          Rolex es un nombre que no necesita introducción; es la marca de relojes más importante del mundo. ¡Ojo! La más importante, no la mejor ni la que produce más relojes, ni desde luego la más original, pero sí la más relevante. Aunque no tengas ni idea de relojes, sabes que un Rolex es un reloj, y si vieras un Submariner, un Daytona o un Datejust, probablemente serías capaz de reconocer la marca solo por su diseño.
+          </div>
+        <br></br>
+
+        <figure className="flex justify-center my-8">
+            <Image
+              alt="Aviadores China"
+              className="aspect-video overflow-hidden rounded-lg object-cover"
+              height={800}
+              width={600}
+              src='/rolex/piramide.jpg'
+            />
+        </figure>
+        <br></br>
+
+        <div className="text-gray-500 text-balance" style={{textAlign: "justify"}}>
+          <br></br>
+          Lo que realmente llevó a la marca a hacer historia fue la increíble visión de su fundador, Hans Wilsdorf  (Imagen de <a href="https://www.watchesworld.com/" target="_blank" rel="noopener noreferrer">Watches World</a>). Muchos no habrán oído hablar del Sr. Wilsdorf, pero para que os hagáis una idea, él fue a los relojes lo que Steve Jobs fue a los smartphones. A principios del siglo XX, tuvo la visión de que los relojes de bolsillo tenían los días contados, y que el futuro de la relojería eran los relojes de pulsera. En aquel entonces, los relojes de pulsera ya existían desde hacía bastantes años, pero eran muy imprecisos y delicados, mayormente llevados por mujeres como joyas. El fundador era consciente de que para hacer esto posible, necesitaba crear un producto robusto, fiable y preciso.
+        </div>
+        <br></br>
+
+        <figure className="flex justify-center my-8">
+            <Image
+              alt="Hans Wildorf"
+              className="aspect-video overflow-hidden rounded-lg object-cover"
+              height={400}
+              width={600}
+              src='/rolex/hans.jpg'
+            />
+        </figure>
+        <br></br>
+
+        <p className="text-gray-500 text-balance" style={{textAlign: "justify"}}>
+        La parte de la precisión no fue tan difícil de conseguir debido a sus contactos relojeros en Suiza, pero lo que los diferenció del resto y les dio esa ansiada robustez fue su nueva invención tecnológica. La patente consistía en una corona enroscada y una caja hermética que protegía el reloj de los elementos, una tecnología que seguramente te sonará, la famosa Oyster Perpetual.
+        <br></br>
+        <br></br>
+
+
+        En parte, esta revolucionaria patente fue una de las principales causas que llevaron al éxito a la marca, pero realmente lo que ha hecho que Rolex trascienda a la historia ha sido su talento por el marketing. A principios del siglo XX, Hans se dio cuenta de que para vender más, sus relojes tenían que estar presentes en las muñecas de esos personajes que lograban grandes hazañas. De alguna manera, esto fue el principio del sistema de embajadores de relojes que se usa tanto hoy en día. Os suena la cara del famoso de la foto? El gran tenista Roger Federer ((Imagen de <a href="https://www.okdiario.com/" target="_blank" rel="noopener noreferrer">OK Diario</a>) es un claro ejemplo de como Rolex ha sabido elegir a sus embajadores a lo largo de los años.
+        </p>
+        <br></br>
+
+        <figure className="flex flex-col justify-center items-center my-8">
+        <Image
+          alt="Roger Federer"
+          className="overflow-hidden rounded-lg object-cover"
+          width={600}
+          height={750}
+          src="/rolex/federer.webp"
+        />
+        </figure>
+
+      <br></br>
+
+       <p className="text-gray-500 text-balance" style={{textAlign: "justify"}}>
+
+
+        De esta forma, en la expedición de 1953, los legendarios Tenzing Norgay y Sir Edmund Hillary lograron por primera vez en la historia de la humanidad llegar a la cima del monte Everest. Es bien sabido que los miembros de la expedición iban equipados con Rolex Oyster Perpetuals, que demostraron al mundo poder soportar las extremas condiciones de la montaña. Debido a esto, ese mismo año la marca anunciaría la línea de relojes Explorer para conmemorar este gran hito, y se seguiría fabricando ininterrumpidamente hasta nuestros días. En el Chronoguía consideramos que el pináculo de diseño y tecnología dentro de esta saga está en el Rolex 14270.
+        <br></br>
+        <br></br>
+
+
+        Mucha gente desconocerá este dato curioso, pero hay conspiraciones en internet que el auténtico reloj que llevaba el espía británico James Bond en las novelas era de hecho un Rolex Explorer y no un Submariner, como hemos podido ver en las películas. Esta teoría tiene sus fundamentos, entre los cuales está el hecho de que el propio Ian Fleming era propietario de un Rolex 1016, que es el predecesor del 14270 y fundador del estilo. Además de que es sabido que el personaje James Bond era el alter ego del propio escritor, según fuentes cercanas, este era su único Rolex. En las propias novelas solo se describe el Rolex que lleva 007 en una o dos ocasiones, mencionando que tenía los numerales luminosos 3, 6 y 9 en su dial, y que era resistente al agua. Si lo pensamos bien, tiene mucho sentido, puesto que el Explorer dispone de la versatilidad suficiente para pelear contra villanos en esmoquin y representa a la perfección el concepto de elegancia británica donde menos es más.
+        </p>
+        <br></br>
+
+      <figure className="flex justify-center my-8">
+        <Image
+          alt="Everest"
+          className="aspect-video overflow-hidden rounded-lg object-cover"
+          height="400"
+          src="/rolex/everest.avif"
+          width="600"
+        />
+      </figure>
+      <br></br>
+
+         <p className="text-gray-500 text-balance" style={{textAlign: "justify"}}>
+         Con 36 mm de diámetro y 11.5 mm de grosor, está en un punto ideal para lucir en muñecas de todos los tamaños. Su caja y brazalete Oyster, fabricados en acero inoxidable altamente resistente a la corrosión, combinan superficies pulidas con cepilladas. Su dial es de un negro piano con marcadores, numerales y manecillas en oro blanco. No tiene ninguna complicación, y esto se traduce en una maquinaria más simple y fiable. Su cristal de zafiro no tiene tratamiento antirreflejos como es común también en el resto de relojes de la marca, puesto que si es de doble cara la dureza del zafiro carece de sentido y es más susceptible a las ralladuras.
+         <br></br>
+         <br></br>
+
+
+        Su maquinaria de manufactura Rolex es el calibre 3000, que tiene unas decentes 42 horas de reserva de marcha y funciona a 28,800 vph. Dispone de la certificación de cronómetro oficial con una precisión de +4/-6 segundos diarios y un sistema de resistencia a los golpes para los estilos de vida más activos. Al contrario de los modelos más nuevos como el 114270, el 14270 no goza de resistencia al magnetismo ni del Breguet overcoil. Gracias a su caja Oyster y corona de rosca, goza de una resistencia al agua de 100 m, lo que lo hace apto para cualquier actividad acuática ligera excepto el buceo.
+ <br></br>  
+ <br></br>
+
+        Todas estas características hacen de este reloj un compañero perfecto para el día a día. He sido propietario simultáneamente de los dos modelos, el 14270 y el 114270, y aunque las diferencias en proporciones son mínimas, sí se nota una diferencia en comodidad y aspecto en la muñeca. En esta industria, 1 mm en grosor o un cambio en el brazalete puede hacer un mundo de diferencia, y debido a esto, contra todo pronóstico, decidí vender el 114270. En mi opinión, el diseño del Rolex Explorer 14270 es la mismísima perfección, elegantemente discreto y puedes llevarlo tanto para una boda formal como para pasear a tu perro en chándal y siempre lucirá genial.
+      
+        </p>
+        <br></br>        
+
+      <figure className="flex justify-center my-8">
+        <Image
+          alt="Rolex explorer"
+          className="aspect-video overflow-hidden rounded-lg object-cover"
+          height="800"
+          src="/rolex/FORMAL3.jpg"
+          width="600"
+        />
+      </figure>
+
+
+      <br></br>
+
+      <p className="text-gray-500 text-balance" style={{textAlign: "justify"}}>
+
+        En conclusión, el Rolex Explorer en 36 mm podría ser el reloj más versátil que nunca se ha fabricado. Si estás buscando un solo reloj para todo tipo de ocasiones y tienes un presupuesto de alrededor de 6 mil euros, no lo dudes, adquiere un buen ejemplar de Explorer 14270. Si por tu trabajo o estilo de vida necesitas una maquinaria resistente al magnetismo o con más reserva de marcha, decántate por el 114270; hay una ligera diferencia en precio y tamaño, pero la esencia es la misma.
+
+        <br></br>
+
+      </p>
+      <br></br>
+
+      <figure className="flex justify-center my-8">
+        <Image
+          alt="Rolex Explorer"
+          className="aspect-video overflow-hidden rounded-lg object-cover"
+          height="800"
+          src="/rolex/piramide.jpg"
+          width="600"
+        />
+      </figure>
+    </div></>},
   { id: "3", 
   titleHomepage: 'Los relojes de James Bond',
   title: <><p>James Bond<br></br> Sus relojes a lo largo de los años</p></>, 
