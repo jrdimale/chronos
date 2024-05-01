@@ -85,7 +85,7 @@ export const blogPosts = [
        <p className="text-gray-500 text-balance" style={{textAlign: "justify"}}>
 
 
-        De esta forma, en la expedición de 1953, los legendarios Tenzing Norgay y Sir Edmund Hillary lograron por primera vez en la historia de la humanidad llegar a la cima del monte Everest. Es bien sabido que los miembros de la expedición iban equipados con Rolex Oyster Perpetuals, que demostraron al mundo poder soportar las extremas condiciones de la montaña. Debido a esto, ese mismo año la marca anunciaría la línea de relojes Explorer para conmemorar este gran hito, y se seguiría fabricando ininterrumpidamente hasta nuestros días. En el Chronoguía consideramos que el pináculo de diseño y tecnología dentro de esta saga está en el Rolex 14270.
+        De esta forma, en la expedición de 1953, los legendarios Tenzing Norgay y Sir Edmund Hillary lograron por primera vez en la historia de la humanidad llegar a la cima del monte Everest (Imagen de <a href="https://www.rolex.org/" target="_blank" rel="noopener noreferrer">Rolex</a>). Es bien sabido que los miembros de la expedición iban equipados con Rolex Oyster Perpetuals, que demostraron al mundo poder soportar las extremas condiciones de la montaña. Debido a esto, ese mismo año la marca anunciaría la línea de relojes Explorer para conmemorar este gran hito, y se seguiría fabricando ininterrumpidamente hasta nuestros días. En el Chronoguía consideramos que el pináculo de diseño y tecnología dentro de esta saga está en el Rolex 14270.
         <br></br>
         <br></br>
 
