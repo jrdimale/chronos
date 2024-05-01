@@ -55,7 +55,7 @@ export const blogPosts = [
               className="aspect-video overflow-hidden rounded-lg object-cover"
               height={400}
               width={600}
-              src='/rolex/hans.jpg'
+              src='/rolex/Hans.jpg'
             />
         </figure>
         <br></br>
