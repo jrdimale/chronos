@@ -74,10 +74,6 @@ export const blogPosts = [
        <p className="text-gray-500 text-balance" style={{textAlign: "justify"}}>
 
         De esta forma, en la expedición de 1953, los legendarios Tenzing Norgay y Sir Edmund Hillary lograron por primera vez en la historia de la humanidad llegar a la cima del monte Everest (Imagen de <a href="https://www.rolex.org/" target="_blank" rel="noopener noreferrer">Rolex</a>). Es bien sabido que los miembros de la expedición iban equipados con Rolex Oyster Perpetuals, que demostraron al mundo poder soportar las extremas condiciones de la montaña. Debido a esto, ese mismo año la marca anunciaría la línea de relojes Explorer para conmemorar este gran hito, y se seguiría fabricando ininterrumpidamente hasta nuestros días. En el Chronoguía consideramos que el pináculo de diseño y tecnología dentro de esta saga está en el Rolex 14270.
-        <br></br>
-        <br></br>
-
-        Mucha gente desconocerá este dato curioso, pero hay conspiraciones en internet que el auténtico reloj que llevaba el espía británico James Bond en las novelas era de hecho un Rolex Explorer y no un Submariner, como hemos podido ver en las películas. Esta teoría tiene sus fundamentos, entre los cuales está el hecho de que el propio Ian Fleming (Imagen de <a href="www.watchesofespionage.com" target="_blank" rel="noopener noreferrer">Watches of Espionage</a>) era propietario de un Rolex 1016, que es el predecesor del 14270 y fundador del estilo. Además de que es sabido que el personaje James Bond era el alter ego del propio escritor, según fuentes cercanas, este era su único Rolex. En las propias novelas solo se describe el Rolex que lleva 007 en una o dos ocasiones, mencionando que tenía los numerales luminosos 3, 6 y 9 en su dial, y que era resistente al agua. Si lo pensamos bien, tiene mucho sentido, puesto que el Explorer dispone de la versatilidad suficiente para pelear contra villanos en esmoquin y representa a la perfección el concepto de elegancia británica donde menos es más.
         </p>
         <br></br>
 
