@@ -77,7 +77,7 @@ export const blogPosts = [
         <br></br>
         <br></br>
 
-        Mucha gente desconocerá este dato curioso, pero hay conspiraciones en internet que el auténtico reloj que llevaba el espía británico James Bond en las novelas era de hecho un Rolex Explorer y no un Submariner, como hemos podido ver en las películas. Esta teoría tiene sus fundamentos, entre los cuales está el hecho de que el propio Ian Fleming era propietario de un Rolex 1016, que es el predecesor del 14270 y fundador del estilo. Además de que es sabido que el personaje James Bond era el alter ego del propio escritor, según fuentes cercanas, este era su único Rolex. En las propias novelas solo se describe el Rolex que lleva 007 en una o dos ocasiones, mencionando que tenía los numerales luminosos 3, 6 y 9 en su dial, y que era resistente al agua. Si lo pensamos bien, tiene mucho sentido, puesto que el Explorer dispone de la versatilidad suficiente para pelear contra villanos en esmoquin y representa a la perfección el concepto de elegancia británica donde menos es más.
+        Mucha gente desconocerá este dato curioso, pero hay conspiraciones en internet que el auténtico reloj que llevaba el espía británico James Bond en las novelas era de hecho un Rolex Explorer y no un Submariner, como hemos podido ver en las películas. Esta teoría tiene sus fundamentos, entre los cuales está el hecho de que el propio Ian Fleming (Imagen de <a href="www.watchesofespionage.com" target="_blank" rel="noopener noreferrer">Watches of Espionage</a>) era propietario de un Rolex 1016, que es el predecesor del 14270 y fundador del estilo. Además de que es sabido que el personaje James Bond era el alter ego del propio escritor, según fuentes cercanas, este era su único Rolex. En las propias novelas solo se describe el Rolex que lleva 007 en una o dos ocasiones, mencionando que tenía los numerales luminosos 3, 6 y 9 en su dial, y que era resistente al agua. Si lo pensamos bien, tiene mucho sentido, puesto que el Explorer dispone de la versatilidad suficiente para pelear contra villanos en esmoquin y representa a la perfección el concepto de elegancia británica donde menos es más.
         </p>
         <br></br>
 
@@ -86,10 +86,30 @@ export const blogPosts = [
           alt="Everest"
           className="aspect-video overflow-hidden rounded-lg object-cover"
           height="400"
-          src="/rolex/everest.avif"
+          src="/rolex/fleming.jpg"
           width="600"
         />
       </figure>
+
+      <br></br>
+
+    <p className="text-gray-500 text-balance" style={{textAlign: "justify"}}>
+
+   
+      Mucha gente desconocerá este dato curioso, pero hay conspiraciones en internet que el auténtico reloj que llevaba el espía británico James Bond en las novelas era de hecho un Rolex Explorer y no un Submariner, como hemos podido ver en las películas. Esta teoría tiene sus fundamentos, entre los cuales está el hecho de que el propio Ian Fleming ()era propietario de un Rolex 1016, que es el predecesor del 14270 y fundador del estilo. Además de que es sabido que el personaje James Bond era el alter ego del propio escritor, según fuentes cercanas, este era su único Rolex. En las propias novelas solo se describe el Rolex que lleva 007 en una o dos ocasiones, mencionando que tenía los numerales luminosos 3, 6 y 9 en su dial, y que era resistente al agua. Si lo pensamos bien, tiene mucho sentido, puesto que el Explorer dispone de la versatilidad suficiente para pelear contra villanos en esmoquin y representa a la perfección el concepto de elegancia británica donde menos es más.
+    </p>
+    <br></br>
+
+    <figure className="flex justify-center my-8">
+    <Image
+      alt="Ian Fleming"
+      className="aspect-video overflow-hidden rounded-lg object-cover"
+      height="400"
+      src="/rolex/everest.avif"
+      width="600"
+    />
+    </figure>
+
       <br></br>
 
          <p className="text-gray-500 text-balance" style={{textAlign: "justify"}}>
