@@ -5,7 +5,7 @@ import Image from "next/legacy/image";
 export const blogPosts = [
   { id: "4", 
     titleHomepage: 'Rolex Explorer',
-    title: <><p>El mejor reloj de la historia es un Rolex, y no es el que piensas<br></br>Rolex Explorer </p></>, 
+    title: <><p>El mejor reloj de la historia es un Rolex, y no es el que piensas...<br></br>Rolex Explorer </p></>, 
     summary: <><p>RESEÑA | Un reloj polivalente, elegante, y ligero</p></>, 
     category: 'Story',
     categoryTitle: <><p>RESEÑA</p></>,
@@ -32,17 +32,6 @@ export const blogPosts = [
           </div>
         <br></br>
 
-        <figure className="flex justify-center my-8">
-            <Image
-              alt="Aviadores China"
-              className="aspect-video overflow-hidden rounded-lg object-cover"
-              height={800}
-              width={600}
-              src='/rolex/piramide.jpg'
-            />
-        </figure>
-        <br></br>
-
         <div className="text-gray-500 text-balance" style={{textAlign: "justify"}}>
           <br></br>
           Lo que realmente llevó a la marca a hacer historia fue la increíble visión de su fundador, Hans Wilsdorf  (Imagen de <a href="https://www.watchesworld.com/" target="_blank" rel="noopener noreferrer">Watches World</a>). Muchos no habrán oído hablar del Sr. Wilsdorf, pero para que os hagáis una idea, él fue a los relojes lo que Steve Jobs fue a los smartphones. A principios del siglo XX, tuvo la visión de que los relojes de bolsillo tenían los días contados, y que el futuro de la relojería eran los relojes de pulsera. En aquel entonces, los relojes de pulsera ya existían desde hacía bastantes años, pero eran muy imprecisos y delicados, mayormente llevados por mujeres como joyas. El fundador era consciente de que para hacer esto posible, necesitaba crear un producto robusto, fiable y preciso.
@@ -66,7 +55,7 @@ export const blogPosts = [
         <br></br>
 
 
-        En parte, esta revolucionaria patente fue una de las principales causas que llevaron al éxito a la marca, pero realmente lo que ha hecho que Rolex trascienda a la historia ha sido su talento por el marketing. A principios del siglo XX, Hans se dio cuenta de que para vender más, sus relojes tenían que estar presentes en las muñecas de esos personajes que lograban grandes hazañas. De alguna manera, esto fue el principio del sistema de embajadores de relojes que se usa tanto hoy en día. Os suena la cara del famoso de la foto? El gran tenista Roger Federer ((Imagen de <a href="https://www.okdiario.com/" target="_blank" rel="noopener noreferrer">OK Diario</a>) es un claro ejemplo de como Rolex ha sabido elegir a sus embajadores a lo largo de los años.
+        En parte, esta revolucionaria patente fue una de las principales causas que llevaron al éxito a la marca, pero realmente lo que ha hecho que Rolex trascienda a la historia ha sido su talento por el marketing. A principios del siglo XX, Hans se dio cuenta de que para vender más, sus relojes tenían que estar presentes en las muñecas de esos personajes que lograban grandes hazañas. De alguna manera, esto fue el principio del sistema de embajadores de relojes que se usa tanto hoy en día. Os suena la cara del famoso de la foto? El gran tenista Roger Federer (Imagen de <a href="https://www.okdiario.com/" target="_blank" rel="noopener noreferrer">OK Diario</a>) es un claro ejemplo de como Rolex ha sabido elegir a sus embajadores a lo largo de los años.
         </p>
         <br></br>
 
@@ -84,11 +73,9 @@ export const blogPosts = [
 
        <p className="text-gray-500 text-balance" style={{textAlign: "justify"}}>
 
-
         De esta forma, en la expedición de 1953, los legendarios Tenzing Norgay y Sir Edmund Hillary lograron por primera vez en la historia de la humanidad llegar a la cima del monte Everest (Imagen de <a href="https://www.rolex.org/" target="_blank" rel="noopener noreferrer">Rolex</a>). Es bien sabido que los miembros de la expedición iban equipados con Rolex Oyster Perpetuals, que demostraron al mundo poder soportar las extremas condiciones de la montaña. Debido a esto, ese mismo año la marca anunciaría la línea de relojes Explorer para conmemorar este gran hito, y se seguiría fabricando ininterrumpidamente hasta nuestros días. En el Chronoguía consideramos que el pináculo de diseño y tecnología dentro de esta saga está en el Rolex 14270.
         <br></br>
         <br></br>
-
 
         Mucha gente desconocerá este dato curioso, pero hay conspiraciones en internet que el auténtico reloj que llevaba el espía británico James Bond en las novelas era de hecho un Rolex Explorer y no un Submariner, como hemos podido ver en las películas. Esta teoría tiene sus fundamentos, entre los cuales está el hecho de que el propio Ian Fleming era propietario de un Rolex 1016, que es el predecesor del 14270 y fundador del estilo. Además de que es sabido que el personaje James Bond era el alter ego del propio escritor, según fuentes cercanas, este era su único Rolex. En las propias novelas solo se describe el Rolex que lleva 007 en una o dos ocasiones, mencionando que tenía los numerales luminosos 3, 6 y 9 en su dial, y que era resistente al agua. Si lo pensamos bien, tiene mucho sentido, puesto que el Explorer dispone de la versatilidad suficiente para pelear contra villanos en esmoquin y representa a la perfección el concepto de elegancia británica donde menos es más.
         </p>
@@ -115,7 +102,7 @@ export const blogPosts = [
  <br></br>  
  <br></br>
 
-        Todas estas características hacen de este reloj un compañero perfecto para el día a día. He sido propietario simultáneamente de los dos modelos, el 14270 y el 114270, y aunque las diferencias en proporciones son mínimas, sí se nota una diferencia en comodidad y aspecto en la muñeca. En esta industria, 1 mm en grosor o un cambio en el brazalete puede hacer un mundo de diferencia, y debido a esto, contra todo pronóstico, decidí vender el 114270. En mi opinión, el diseño del Rolex Explorer 14270 es la mismísima perfección, elegantemente discreto y puedes llevarlo tanto para una boda formal como para pasear a tu perro en chándal y siempre lucirá genial.
+        Todas estas características hacen de este reloj un compañero perfecto para el día a día. He sido propietario simultáneamente de los dos modelos, el 14270 y el 114270, y aunque las diferencias en proporciones son mínimas, sí se nota una diferencia en comodidad y aspecto en la muñeca. En esta industria, 1 mm en grosor o un cambio en el brazalete puede hacer una gran diferencia, y debido a esto, contra todo pronóstico, decidí vender el 114270. En mi opinión, el diseño del Rolex Explorer 14270 es la mismísima perfección, elegantemente discreto y puedes llevarlo tanto para una boda formal como para pasear a tu perro en chándal y siempre lucirá genial.
       
         </p>
         <br></br>        
